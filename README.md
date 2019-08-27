@@ -1,7 +1,3 @@
-> # Development of this application has moved to https://github.com/CoEDL/olac-datasource.
->
-> ## Issues raised in this repository will be ignored.
-
 # PARADISEC OLAC Data Source
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
